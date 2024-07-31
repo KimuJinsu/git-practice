@@ -1,5 +1,6 @@
+* * *
 # 실습내용
-
+* * *
 1. remote[GitHub] empty repo 생성<br>
 2. git init & git push<br>
 3. 별도의 git local branch 생성 -> remote repo 생성<br>
