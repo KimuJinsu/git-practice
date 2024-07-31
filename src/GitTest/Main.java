@@ -7,6 +7,7 @@ public class Main {
         System.out.println("Jinsu");
         System.out.println("Jinsu");
         System.out.println("Jinsu");
+        System.out.println("Jinsu");
 
 
 
