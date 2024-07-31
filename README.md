@@ -1,4 +1,4 @@
-#실습내용
+# 실습내용
 
 1  remote[GitHub] empty repo 생성
 2. git init & git push
