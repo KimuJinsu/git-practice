@@ -42,6 +42,10 @@
 # local branch 및 remote branch 삭제
 * * *
 ![ex_screenshot](./resource/8번.gif)
+
+
+
+
 * * *
 # git undo[amend 옵션 사용]
 * * *
