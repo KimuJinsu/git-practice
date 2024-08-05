@@ -13,7 +13,7 @@
 * * *
 # remote[GitHub] empty repo 생성
 * * *
-![1](https://github.com/user-attachments/assets/c970af9f-aa16-4b3f-bd86-875f12137dc5)
+![ex_screenshot](./resource/1번.gif)
 * * *
 # git init & git push
 * * *
