@@ -1,4 +1,3 @@
-* * *
 # 실습내용
 * * *
 1. remote[GitHub] empty repo 생성<br>
